@@ -1,5 +1,5 @@
-public class Calc{
 
+class Calc{
   public static int add(int a,int b){
     return a+b;
   }
@@ -18,6 +18,4 @@ public class Calc{
     System.out.println(mul(10,20));
     System.out.println(div(10,20));                       
   }
-
-
 }
